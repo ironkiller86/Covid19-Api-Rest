@@ -5,7 +5,7 @@
 <div id="specification"></div>
 
 ## Specification
-Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example stext blah. Example text blah. 
 Example text blah. Example text blah. Example text blah. Example text blah. 
 Example text blah. Example text blah. Example text blah. Example text blah. 
 Example text blah. Example text blah. 
