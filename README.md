@@ -3,6 +3,8 @@
 - [Cosa è Covid19-Api e perchè](#description-project)
 - [Come funziona](#work)
 - [Come si ottengono i dati](#how-to)
+- [Crediti](#credit)
+- [Supportami](#support)
 <div id="description-project"></div>
 
 ## Cosa è Covid19-Api e perché:
@@ -117,7 +119,7 @@ Es:
 <br><br>
 E' possibile fare una ricerca per una determinato giorno, aggiungendo il parametro `dataTime`.
 
-Omettendo il campo `dataTime` il dato ritornato sara l'ultimo disponibile in quel dato momento.
+Omettendo il campo `dataTime` il dato ritornato sara l'ultimo disponibile in quel determinato momento.
 
 > https://covid-19-ita-api.herokuapp.com/covidApi/v1/italy/?dataTime=2021-04-23&apiKey=apiKey
 
@@ -135,3 +137,22 @@ I parametri da aggiungere in querystring sono `orderBy` e `sortBy`.
 Es:
 
 > https://covid-19-ita-api.herokuapp.com/covidApi/v1/italy/?sortBy=desc&orderBy=nuovi_positivi&dataTime=2021-04-30&apiKey=apiKey
+
+<br><br>
+
+<div id="credit"></div>
+
+# Crediti:
+
+Il progetto attualmente è portato avanti solo da me,, se volete mi trovate su [Linkedin](linkedin.com/in/donato-tuzzolino-306a05153) o potete visitare il mio [sito portfolio](https://www.donatotuzzolino.com/)
+
+I dati in formato `csv` sono prelevati giornalmente dal [repository ufficiale delle protezione civile](https://github.com/pcm-dpc/COVID-19), il quale resta l'unica fonte ufficiale dei dati sul `Coronavirus` in Italia.
+<br><br>
+
+<div id="support"></div>
+
+# Offrimi un caffè:
+
+L'api è gratuita, ma se ti piace e la utilizzi, potresti offrirmi un caffe..
+
+<a href="https://www.buymeacoffee.com/donatoTuzzolino" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
