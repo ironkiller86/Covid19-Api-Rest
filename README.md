@@ -126,7 +126,7 @@ Oppure si può fare una ricerca per una determinata regione in un dato giorno sp
 
 Es:
 
-> https://covid-19-ita-api.herokuapp.com/covidApi/v1/italy/?region=Sicilia&dataTime=2021-04-30&apiKey=cbeef93b-8a2d-448c-bc74-bacdd220e25b
+> https://covid-19-ita-api.herokuapp.com/covidApi/v1/italy/?region=Sicilia&dataTime=2021-04-30&apiKey=apiKey
 
 <br><br>
 Inoltre è possibile fare una ricerca per un determinato campo ordinado i risultati in ordine crescente (che il default) o decrescente.<br>
@@ -134,4 +134,4 @@ I parametri da aggiungere in querystring sono `orderBy` e `sortBy`.
 
 Es:
 
-> https://covid-19-ita-api.herokuapp.com/covidApi/v1/italy/?sortBy=desc&orderBy=nuovi_positivi&dataTime=2021-04-30&apiKey=cbeef93b-8a2d-448c-bc74-bacdd220e25b
+> https://covid-19-ita-api.herokuapp.com/covidApi/v1/italy/?sortBy=desc&orderBy=nuovi_positivi&dataTime=2021-04-30&apiKey=apiKey
