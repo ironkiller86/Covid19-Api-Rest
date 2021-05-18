@@ -21,7 +21,7 @@ Se qualcosa non dovesse funzionare oppure avete un consiglio da darmi, potete o 
 ## Come funziona:
 
 Ogni giorno intorno alle 18:00 la Protezione Civile pubblica sul suo repository un file csv contenente i dati sul Covid-19 aggiornati e suddivisi per regione.
-Quest'ultimi vengono prelevati e trasformati in un formato _machine readable_, nello specifico il formato **JSON**, e salvati in un database.
+Quest'ultimi vengono prelevati e trasformati in un formato _machine readable_, nello specifico in formato **JSON**, e salvati in un database.
 Tramite uno specifico **endPoint** è possibile ottenere i dati di tutte le regioni, oppure di una specifica località, o ottenere i dati di un determinato giorno.
 Inoltre è possibile poter ordinare questi dati in modo decrescente o crescente specificando un campo chiave.
 
@@ -144,7 +144,7 @@ Es:
 
 # Crediti:
 
-Il progetto attualmente è portato avanti solo da me,, se volete mi trovate su [Linkedin](linkedin.com/in/donato-tuzzolino-306a05153) o potete visitare il mio [sito portfolio](https://www.donatotuzzolino.com/)
+Il progetto attualmente è portato avanti solo da me, mi trovate su [Linkedin](linkedin.com/in/donato-tuzzolino-306a05153) o potete visitare il mio [sito portfolio](https://www.donatotuzzolino.com/)
 
 I dati in formato `csv` sono prelevati giornalmente dal [repository ufficiale delle protezione civile](https://github.com/pcm-dpc/COVID-19), il quale resta l'unica fonte ufficiale dei dati sul `Coronavirus` in Italia.
 <br><br>
@@ -153,6 +153,6 @@ I dati in formato `csv` sono prelevati giornalmente dal [repository ufficiale de
 
 # Offrimi un caffè:
 
-L'api è gratuita, ma se ti piace e la utilizzi, potresti offrirmi un caffe..
+L'api è gratuita, ma se ti piace e la ritieni utile, potresti offrirmi un caffe..
 
 <a href="https://www.buymeacoffee.com/donatoTuzzolino" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
